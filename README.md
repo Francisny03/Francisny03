@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋!
 
 I'm Francis, a Software Engineer passionate about building high-quality mobile applications and creating experiences people genuinely enjoy using.
 
