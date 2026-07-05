@@ -29,9 +29,9 @@ I enjoy transforming ideas into clean, intuitive, and scalable products.
 
 - Clean Architecture
 - Advanced Flutter
-- Backend Development
 - Mobile Performance
 - Software Design Patterns
+- React Js
 
 ---
 
