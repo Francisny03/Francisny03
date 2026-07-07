@@ -1,8 +1,10 @@
 # Hi there 👋!
 
-I'm Francis, a Software Engineer passionate about building high-quality mobile applications and creating experiences people genuinely enjoy using.
+I'm Francis, a Software Engineer passionate about crafting high-quality mobile applications that are intuitive, scalable, and enjoyable to use.
 
-I enjoy transforming ideas into clean, intuitive, and scalable products.
+I love turning ideas into polished digital products by combining clean code, thoughtful design, and seamless user experiences.
+
+Driven by curiosity and continuous learning, I enjoy solving real-world problems and building products that make a meaningful impact.
 
 ---
 
