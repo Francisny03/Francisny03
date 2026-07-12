@@ -24,7 +24,6 @@ Driven by curiosity and continuous learning, I enjoy solving real-world problems
 - 🔗 REST API Integration
 - 🧩 Product Development
 - 🚀 Performance Optimization
-- Community Managment
 
 ---
 
